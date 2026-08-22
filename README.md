@@ -14,5 +14,7 @@ Qwen/Qwen2.5-1.5B-Instruct
 ## How to Run
 
 pip install -r requirements.txt
-
 python -m streamlit run project.py
+
+## streamlit link
+https://github.com/kiruthika24-git/AI-Text-Generator.git
