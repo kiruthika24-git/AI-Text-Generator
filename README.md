@@ -17,4 +17,4 @@ pip install -r requirements.txt
 python -m streamlit run project.py
 
 ## streamlit link
-https://github.com/kiruthika24-git/AI-Text-Generator.git
+https://ai-text-generator24.streamlit.app/
